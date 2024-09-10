@@ -31,7 +31,13 @@ Here are some of the projects I've worked on recently:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=villarley&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical) <!-- Replace `your_username` with your GitHub username -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=villarley&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=villarley&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=villarley&theme=radical)
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=villarley&theme=radical)
 
 ## Contact
 
@@ -46,4 +52,3 @@ A big thank you to everyone who has contributed to my projects and supported me 
 ---
 
 Feel free to explore my projects and contributions. If you have any questions or would like to collaborate, don’t hesitate to reach out!
-
