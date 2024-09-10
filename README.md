@@ -1,6 +1,6 @@
 # Hi, I'm Santiago Villarreal! 👋
 
-![Banner](path/to/your/banner.png) <!-- Replace this with the path to your banner image -->
+![Banner](github.png) <!-- Replace this with the path to your banner image -->
 
 I'm a Software Developer with a passion for problem solving. Here on my GitHub profile, you can explore a variety of projects I've worked on and my contributions to open source.
 
