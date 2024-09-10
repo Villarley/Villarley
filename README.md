@@ -8,10 +8,8 @@ I'm a Software Developer with a passion for problem solving. Here on my GitHub p
 
 - 🔭 I’m currently working on [current project or company].
 - 🌱 I’m learning more about [Solidity](https://soliditylang.org/).
-- 👯 I’m looking to collaborate on [type of projects or areas of interest].
-- 💬 Ask me about [topic you’re an expert in].
-- 📫 How to reach me: [your email or contact method].
-- ⚡ Fun fact: [a fun fact about you].
+- 👯 I’m a web3 enthusiast.
+- ⚡ Fun fact: [I love coffee].
 
 ## Tech Stack
 
