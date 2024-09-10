@@ -1,4 +1,4 @@
-# Hi, I'm Santiago Villarreal! 👋
+![Greeting](ezgif.com-animated-gif-maker.gif)
 
 ![Banner](github.png) <!-- Replace this with the path to your banner image -->
 
