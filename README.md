@@ -35,9 +35,9 @@ Here are some of the projects I've worked on recently:
 
 ## Contact
 
-- **Twitter:** [@your_username](https://twitter.com/your_username)
-- **LinkedIn:** [Your Profile](https://linkedin.com/in/your-profile)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Twitter:** [@Villarley_](https://twitter.com/Villarley_)
+- **LinkedIn:** [Santiago](https://linkedin.com/in/SantiagoVillarrealArley)
+- **Email:** [santivillarley1010@gmail.com](mailto:santivillarley1010@gmail.com)
 
 ## Acknowledgements
 
