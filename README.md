@@ -31,7 +31,7 @@ Here are some of the projects I've worked on recently:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical) <!-- Replace `your_username` with your GitHub username -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=villarley&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical) <!-- Replace `your_username` with your GitHub username -->
 
 ## Contact
 
