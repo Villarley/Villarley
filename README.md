@@ -9,7 +9,7 @@ I'm a Software Developer with a passion for problem solving. Here on my GitHub p
 - 🔭 I’m currently working on [current project or company].
 - 🌱 I’m learning more about [Solidity](https://soliditylang.org/).
 - 👯 I’m a web3 enthusiast.
-- ⚡ Fun fact: [I love coffee].
+- ⚡ Fun fact: I love coffee.
 
 ## Tech Stack
 
