@@ -1,4 +1,4 @@
-![Greeting](ezgif.com-animated-gif-maker.gif)
+![Greeting](greeting.gif)
 
 ![Banner](github.png) <!-- Replace this with the path to your banner image -->
 
