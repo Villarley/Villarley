@@ -37,7 +37,6 @@ Here are some of the projects I've worked on recently:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=villarley&theme=radical)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=villarley&theme=radical)
 
 ## Contact
 
