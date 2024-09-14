@@ -6,7 +6,7 @@ I'm a Software Developer with a passion for problem solving. Here on my GitHub p
 
 ## About Me
 
-- 🔭 I’m currently working on [Skoola](https://github.com/villarley/skooladb) and [Stelalr](https://github.com/villarley/stellar-landingpage).
+- 🔭 I’m currently working on [Skoola](https://github.com/villarley/skooladb) and [Stellar](https://github.com/kevinlatino/stellar-landingpage).
 - 🌱 I’m learning more about [Solidity](https://soliditylang.org/).
 - 👯 I’m a web3 enthusiast.
 - ⚡ Fun fact: I love coffee.
