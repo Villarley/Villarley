@@ -21,7 +21,7 @@ Here are some of the technologies and tools I work with:
   <img height="50rem" src="./techStack/frontend/typescript.svg"/>
   <img height="50rem" src="./techStack/frontend/react.svg"/>
   <img height="50rem" src="./techStack/frontend/vite.svg"/>
-  <img height="50rem" src="./techStack/frontend/nextjs.svg"/>
+  <img height="50rem" src="./techStack/frontend/nextjs.webp"/>
   <img height="50rem" src="./techStack/frontend/astro.svg"/>
   <img height="50rem" src="./techStack/frontend/tailwind.svg"/>
   <img height="50rem" src="./techStack/frontend/reactquery.png"/>
