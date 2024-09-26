@@ -53,7 +53,7 @@ Here are some of the technologies and tools I work with:
   
 <div/>
 
-### DBs
+### <div align="left">DB</div>
 <div align="center">
   <img height="50rem" src="./techStack/DBs/mongo.svg"/>
   <img height="50rem" src="./techStack/DBs/neon.png"/>
