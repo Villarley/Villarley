@@ -24,8 +24,8 @@ Here are some of the technologies and tools I work with:
 
 Here are some of the projects I've worked on recently:
 
-- [Project Name 1](link-to-your-repo): Brief description of the project and the technologies used.
-- [Project Name 2](link-to-your-repo): Brief description of the project and the technologies used.
+- [SkHive](https://github.com/Villarley/SkHiveDB): Backend with TypeScript, services using OpenAI APIs, Sequelize as the ORM.
+- [Skoola](https://github.com/Villarley/SkoolaDB): Backend using typescript, full typed. Using TypeORM as the query constructor, and some other libraries to create a professional solution.
 
 ## GitHub Stats
 
