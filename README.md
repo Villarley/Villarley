@@ -40,6 +40,7 @@ Here are some of the technologies and tools I work with:
   <img height="50rem" src="./techStack/backend/backblaze.png"/>
   <img height="50rem" src="./techStack/backend/typeorm.png"/>
   <img height="50rem" src="./techStack/backend/sqlalchemy.jpg"/>
+  
 <div/>
 
 ### Tools
@@ -49,6 +50,7 @@ Here are some of the technologies and tools I work with:
   <img height="50rem" src="./techStack/tools/bitbucket.svg"/>
   <img height="50rem" src="./techStack/tools/azure.svg"/>
   <img height="50rem" src="./techStack/tools/vercel.svg"/>
+  
 <div/>
 
 ### DBs
@@ -57,6 +59,7 @@ Here are some of the technologies and tools I work with:
   <img height="50rem" src="./techStack/DBs/neon.png"/>
   <img height="50rem" src="./techStack/DBs/mysql.svg"/>
   <img height="50rem" src="./techStack/DBs/postgres.svg"/>
+  
 <div/>
 
 ## My Projects
