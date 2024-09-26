@@ -51,12 +51,12 @@ Here are some of the technologies and tools I work with:
   <img height="50rem" src="./techStack/tools/vercel.svg"/>
 <div/>
 
-
-
-- **Languages:** [e.g., JavaScript, Python, Java]
-- **Frameworks:** [e.g., React, Django, Spring]
-- **Tools:** [e.g., Docker, Git, CI/CD]
-- **Databases:** [e.g., PostgreSQL, MongoDB]
+### DBs
+<div align="center">
+  <img height="50rem" src="./techStack/DBs/mongo.svg"/>
+  <img height="50rem" src="./techStack/DBs/neon.png"/>
+  <img height="50rem" src="./techStack/DBs/mysql.png"/>
+<div/>
 
 ## My Projects
 
