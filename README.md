@@ -63,10 +63,3 @@ I'm a Software Developer with a passion for problem solving. Here on my GitHub p
 # <div align="left">GitHub Stats</div>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=villarley&theme=radical)
-
-
-# Contact
-
-- **Twitter:** [@Villarley_](https://twitter.com/Villarley_)
-- **LinkedIn:** [Santiago](https://linkedin.com/in/SantiagoVillarrealArley)
-- **Email:** [santivillarley1010@gmail.com](mailto:santivillarley1010@gmail.com)
