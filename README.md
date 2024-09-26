@@ -43,7 +43,6 @@ Here are some of the technologies and tools I work with:
 <div/>
 
 ### Tools
-
 <div align="center">
   <img height="50rem" src="./techStack/tools/git.svg"/>
   <img height="50rem" src="./techStack/tools/github.svg"/>
