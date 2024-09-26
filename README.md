@@ -43,7 +43,7 @@ Here are some of the technologies and tools I work with:
   
 <div/>
 
-### Tools
+### <div align="left">Tools</div>
 <div align="center">
   <img height="50rem" src="./techStack/tools/git.svg"/>
   <img height="50rem" src="./techStack/tools/github.svg"/>
@@ -53,7 +53,7 @@ Here are some of the technologies and tools I work with:
   
 <div/>
 
-### <div align="left">DB</div>
+### <div align="left">DataBases</div>
 <div align="center">
   <img height="50rem" src="./techStack/DBs/mongo.svg"/>
   <img height="50rem" src="./techStack/DBs/neon.png"/>
@@ -62,14 +62,14 @@ Here are some of the technologies and tools I work with:
   
 <div/>
 
-## My Projects
+## <div align="left">My Projects</div>
 
 Here are some of the projects I've worked on recently:
 
 - [SkHive](https://github.com/Villarley/SkHiveDB): Backend with TypeScript, services using OpenAI APIs, Sequelize as the ORM.
 - [Skoola](https://github.com/Villarley/SkoolaDB): Backend using typescript, full typed. Using TypeORM as the query constructor, and some other libraries to create a professional solution.
 
-## GitHub Stats
+## <div align="left">GitHub Stats</div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=villarley&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
 
