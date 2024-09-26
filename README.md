@@ -27,7 +27,9 @@ Here are some of the technologies and tools I work with:
   <img height="50rem" src="./techStack/frontend/reactquery.png"/>
   
 </div>
+
 ### Backend
+<div align="center">
   <img height="50rem" src="./techStack/backend/typescript.svg"/>
   <img height="50rem" src="./techStack/backend/python.svg"/>
   <img height="50rem" src="./techStack/backend/go.svg"/>
@@ -38,7 +40,7 @@ Here are some of the technologies and tools I work with:
   <img height="50rem" src="./techStack/backend/backblaze.png"/>
   <img height="50rem" src="./techStack/backend/typeorm.png"/>
   <img height="50rem" src="./techStack/backend/sqlalchemy.jpg"/>
-  
+<div/>
 
 
 - **Languages:** [e.g., JavaScript, Python, Java]
