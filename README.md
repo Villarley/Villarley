@@ -15,7 +15,7 @@ I'm a Software Developer with a passion for problem solving. Here on my GitHub p
 
 Here are some of the technologies and tools I work with:
 
-###Frontend
+### Frontend
 <div align="center">
   <img height="50rem" src="./techStack/frontend/js.svg"/>
 </div>
