@@ -15,19 +15,6 @@ I'm a Software Developer with a passion for problem solving. Here on my GitHub p
 
 Here are some of the technologies and tools I work with:
 
-## Frontend
-<div align="center">
-  <img height="50rem" src="./techStack/frontend/js.svg"/>
-  <img height="50rem" src="./techStack/frontend/typescript.svg"/>
-  <img height="50rem" src="./techStack/frontend/react.svg"/>
-  <img height="50rem" src="./techStack/frontend/vite.svg"/>
-  <img height="50rem" src="./techStack/frontend/nextjs.webp"/>
-  <img height="50rem" src="./techStack/frontend/astro.svg"/>
-  <img height="50rem" src="./techStack/frontend/tailwind.svg"/>
-  <img height="50rem" src="./techStack/frontend/reactquery.png"/>
-  
-</div>
-
 ## Backend
 <div align="center">
   <img height="50rem" src="./techStack/backend/typescript.svg"/>
@@ -42,6 +29,19 @@ Here are some of the technologies and tools I work with:
   <img height="50rem" src="./techStack/backend/sqlalchemy.jpg"/>
   
 <div/>
+
+## Frontend
+<div align="center">
+  <img height="50rem" src="./techStack/frontend/js.svg"/>
+  <img height="50rem" src="./techStack/frontend/typescript.svg"/>
+  <img height="50rem" src="./techStack/frontend/react.svg"/>
+  <img height="50rem" src="./techStack/frontend/vite.svg"/>
+  <img height="50rem" src="./techStack/frontend/nextjs.webp"/>
+  <img height="50rem" src="./techStack/frontend/astro.svg"/>
+  <img height="50rem" src="./techStack/frontend/tailwind.svg"/>
+  <img height="50rem" src="./techStack/frontend/reactquery.png"/>
+  
+</div>
 
 ## <div align="left">Tools</div>
 <div align="center">
