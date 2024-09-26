@@ -30,7 +30,7 @@ Here are some of the technologies and tools I work with:
   
 <div/>
 
-## Frontend
+## <div align="left">Frontend</div>
 <div align="center">
   <img height="50rem" src="./techStack/frontend/js.svg"/>
   <img height="50rem" src="./techStack/frontend/typescript.svg"/>
