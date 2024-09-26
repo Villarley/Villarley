@@ -17,7 +17,7 @@ Here are some of the technologies and tools I work with:
 
 ###Frontend
 <div align="center">
-  <img height="10rem" src="./techStack/frontend/js.svg"/>
+  <img height="50rem" src="./techStack/frontend/js.svg"/>
 </div>
 
 - **Languages:** [e.g., JavaScript, Python, Java]
