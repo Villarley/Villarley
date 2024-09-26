@@ -49,8 +49,6 @@ Here are some of the technologies and tools I work with:
   <img height="50rem" src="./techStack/tools/bitbucket.svg"/>
   <img height="50rem" src="./techStack/tools/azure.svg"/>
   <img height="50rem" src="./techStack/tools/vercel.svg"/>
-  
-  
 <div/>
 
 
