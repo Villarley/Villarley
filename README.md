@@ -27,6 +27,19 @@ Here are some of the technologies and tools I work with:
   <img height="50rem" src="./techStack/frontend/reactquery.png"/>
   
 </div>
+### Backend
+  <img height="50rem" src="./techStack/backend/typescript.svg"/>
+  <img height="50rem" src="./techStack/backend/python.svg"/>
+  <img height="50rem" src="./techStack/backend/go.svg"/>
+  <img height="50rem" src="./techStack/backend/ruby.svg"/>
+  <img height="50rem" src="./techStack/backend/sequelize.svg"/>
+  <img height="50rem" src="./techStack/backend/fastapi.svg"/>
+  <img height="50rem" src="./techStack/backend/node.svg"/>
+  <img height="50rem" src="./techStack/backend/backblaze.png"/>
+  <img height="50rem" src="./techStack/backend/typeorm.png"/>
+  <img height="50rem" src="./techStack/backend/sqlalchemy.jpg"/>
+  
+
 
 - **Languages:** [e.g., JavaScript, Python, Java]
 - **Frameworks:** [e.g., React, Django, Spring]
