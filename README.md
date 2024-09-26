@@ -55,7 +55,7 @@ Here are some of the technologies and tools I work with:
 <div align="center">
   <img height="50rem" src="./techStack/DBs/mongo.svg"/>
   <img height="50rem" src="./techStack/DBs/neon.png"/>
-  <img height="50rem" src="./techStack/DBs/mysql.png"/>
+  <img height="50rem" src="./techStack/DBs/mysql.svg"/>
   <img height="50rem" src="./techStack/DBs/postgres.svg"/>
 <div/>
 
