@@ -42,6 +42,19 @@ Here are some of the technologies and tools I work with:
   <img height="50rem" src="./techStack/backend/sqlalchemy.jpg"/>
 <div/>
 
+### Tools
+
+<div align="center">
+  <img height="50rem" src="./techStack/tools/git.svg"/>
+  <img height="50rem" src="./techStack/tools/github.svg"/>
+  <img height="50rem" src="./techStack/tools/bitbucket.svg"/>
+  <img height="50rem" src="./techStack/tools/azure.svg"/>
+  <img height="50rem" src="./techStack/tools/vercel.svg"/>
+  
+  
+<div/>
+
+
 
 - **Languages:** [e.g., JavaScript, Python, Java]
 - **Frameworks:** [e.g., React, Django, Spring]
