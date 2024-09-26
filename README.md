@@ -15,6 +15,11 @@ I'm a Software Developer with a passion for problem solving. Here on my GitHub p
 
 Here are some of the technologies and tools I work with:
 
+###Frontend
+<div align="center">
+  <img src="./techStack/frontend/js.svg"/>
+</div>
+
 - **Languages:** [e.g., JavaScript, Python, Java]
 - **Frameworks:** [e.g., React, Django, Spring]
 - **Tools:** [e.g., Docker, Git, CI/CD]
