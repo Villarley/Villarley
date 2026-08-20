@@ -7,9 +7,8 @@ I'm a Software Developer with a passion for problem solving. Here on my GitHub p
 # About Me
 
 - 🔭 I’m currently working on [Starshop](https://github.com/StarShopCr/) and [BuildMyEvent](https://github.com/BuildMyEvent).
-- 🌱 I’m learning more about [Rust](https://rustlang.org/) and [Cairo](https://www.cairo-lang.org/).
 - 🚀 Cofounding [OS Labs](https://github.com/Oppia-Software-Labs)
-- ⚙️ Backend and Maintainer lead at [StarShop](https://github.com/StarShopCr)
+- Software dev @GrantFox
 - 👯 I’m a web3 enthusiast.
 - ⚡ Fun fact: I love coffee.
 
