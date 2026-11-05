@@ -6,10 +6,10 @@ I'm a Software Developer with a passion for problem solving. Here on my GitHub p
 
 # About Me
 
-- 🔭 I’m currently working on [Starshop](https://github.com/StarShopCr/) and [BuildMyEvent](https://github.com/BuildMyEvent).
+- 🔭 I’m currently working on [Neko](https://github.com/neko-protocol).
 - 🚀 Cofounding [OS Labs](https://github.com/Oppia-Software-Labs)
 - Software dev @GrantFox
-- 👯 I’m a web3 enthusiast.
+- Tokenization & RWA
 - ⚡ Fun fact: I love coffee.
 
 # Tech Stack
