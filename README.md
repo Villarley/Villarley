@@ -1,66 +1,44 @@
-![Greeting](greeting.gif)
+# Santiago Villarreal Arley
 
-![Banner](github.png) <!-- Replace this with the path to your banner image -->
+**Software engineer. Stablecoin payments and AI systems. Stellar first, multichain.**
 
-I'm a Software Developer with a passion for problem solving. Here on my GitHub profile, you can explore a variety of projects I've worked on and my contributions to open source.
+[santiago-villarreal.vercel.app](https://santiago-villarreal.vercel.app) | [LinkedIn](https://www.linkedin.com/in/santiagovillarrealarley/) | [X](https://x.com/Villarley_) | [Email](mailto:santivillarley1010@gmail.com) | San José, Costa Rica
 
-# About Me
+I build payment systems that move money correctly: escrow, signing queues, reconciliation and the apps on top of them. I also build AI that has to be right, with retrieval and deterministic rules first, the model second, and an evaluation set before anything ships.
 
-- 🔭 I’m currently working on [Neko](https://github.com/neko-protocol).
-- 🚀 Cofounding [OS Labs](https://github.com/Oppia-Software-Labs)
-- Software dev @GrantFox
-- Tokenization & RWA
-- ⚡ Fun fact: I love coffee.
+## In numbers
 
-# Tech Stack
+| | |
+|---|---|
+| **$200K+** | USDC released to open-source contributors at GrantFox |
+| **$364K+** | Deposit volume on Neko, Stellar mainnet |
+| **8,000+** | Users on the GrantFox platform |
+| **96%** | Agent answers citing the right legal article with cr-tax-kb |
+| **88** | Merged open-source pull requests, Nov 2024 to Oct 2025 |
+| **$126,710** | Stellar Community Fund #45 Build Award, awarded to Neko |
 
-## Backend
-<div align="center">
-  <img height="50rem" src="./techStack/backend/typescript.svg"/>
-  <img height="50rem" src="./techStack/backend/python.svg"/>
-  <img height="50rem" src="./techStack/backend/go.svg"/>
-  <img height="50rem" src="./techStack/backend/ruby.svg"/>
-  <img height="50rem" src="./techStack/backend/sequelize.svg"/>
-  <img height="50rem" src="./techStack/backend/fastapi.svg"/>
-  <img height="50rem" src="./techStack/backend/node.svg"/>
-  <img height="50rem" src="./techStack/backend/backblaze.png"/>
-  <img height="50rem" src="./techStack/backend/typeorm.png"/>
-  <img height="50rem" src="./techStack/backend/sqlalchemy.jpg"/>
-  
-<div/>
+## Now
 
-## <div align="left">Frontend</div>
-<div align="center">
-  <img height="50rem" src="./techStack/frontend/js.svg"/>
-  <img height="50rem" src="./techStack/frontend/typescript.svg"/>
-  <img height="50rem" src="./techStack/frontend/react.svg"/>
-  <img height="50rem" src="./techStack/frontend/vite.svg"/>
-  <img height="50rem" src="./techStack/frontend/nextjs.webp"/>
-  <img height="50rem" src="./techStack/frontend/astro.svg"/>
-  <img height="50rem" src="./techStack/frontend/tailwind.svg"/>
-  <img height="50rem" src="./techStack/frontend/reactquery.png"/>
-  
-</div>
+**GrantFox**, AI Engineer (Payments and Backend). USDC payout rail, server-signed job queue with retries and reconciliation, and the AI review that cut payout review from 2 weeks to 2 days.
 
-## <div align="left">Tools</div>
-<div align="center">
-  <img height="50rem" src="./techStack/tools/git.svg"/>
-  <img height="50rem" src="./techStack/tools/github.svg"/>
-  <img height="50rem" src="./techStack/tools/bitbucket.svg"/>
-<!--   <img height="50rem" src="./techStack/tools/azure.svg"/> -->
-  <img height="50rem" src="./techStack/tools/vercel.svg"/>
-  
-<div/>
+**Oppia Labs**, Co-founder. Building [Neko](https://nekoprotocol.xyz), a non-custodial investing app on Stellar, and Neko on Base.
 
-## <div align="left">DataBases</div>
-<div align="center">
-  <img height="50rem" src="./techStack/DBs/mongo.svg"/>
-  <img height="50rem" src="./techStack/DBs/neon.png"/>
-  <img height="50rem" src="./techStack/DBs/mysql.svg"/>
-  <img height="50rem" src="./techStack/DBs/postgres.svg"/>
-  
-<div/>
+**Community**, organizer of Pura Vida Onchain (240+ registered) and instructor in the Dev3pack Solana and Rust bootcamp.
 
-# <div align="left">GitHub Stats</div>
+## Selected work
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=villarley&theme=radical)
+| Project | What it is |
+|---|---|
+| [cr-tax-kb](https://github.com/Villarley/cr-tax-kb) | Costa Rica tax and labor law for AI agents: 1,914 articles, verbatim and versioned, an MCP server and an agent benchmark |
+| [cursor-mcp-server](https://github.com/Villarley/cursor-mcp-server) | MCP server that lets an orchestrator model delegate code to Cursor and Grok agents |
+| [Trustless-Work-Skill](https://github.com/Villarley/Trustless-Work-Skill) | Installs a Trustless Work escrow skill for Claude Code and Gemini CLI, published on npm |
+| [medicitas](https://github.com/Villarley/medicitas) | Multi-tenant appointments API in Go with PostgreSQL row-level security, Keycloak and Redis |
+| [aval](https://github.com/Villarley/aval) | Verifiable academic credentials anchored on Stellar |
+| [santiago-villarreal-site](https://github.com/Villarley/santiago-villarreal-site) | My site, built by an orchestrated team of coding agents |
+
+## Stack
+
+TypeScript, Go, Python, SQL, Rust<br>
+NestJS, Next.js, React, Expo, PostgreSQL, Supabase, Docker<br>
+Stellar, Soroban, Base and EVM, wagmi, viem, WalletConnect<br>
+Claude API, MCP, RAG, evaluation harnesses, Databricks
