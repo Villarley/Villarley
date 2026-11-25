@@ -1,6 +1,6 @@
 # Santiago Villarreal Arley
 
-**Software engineer. Stablecoin payments and AI systems. Stellar first, multichain.**
+**Software engineer. Stablecoin payments and AI systems.
 
 [santiago-villarreal.vercel.app](https://santiago-villarreal.vercel.app) | [LinkedIn](https://www.linkedin.com/in/santiagovillarrealarley/) | [X](https://x.com/Villarley_) | [Email](mailto:santivillarley1010@gmail.com) | San José, Costa Rica
 
