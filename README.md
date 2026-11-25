@@ -21,7 +21,7 @@ I build payment systems that move money correctly: escrow, signing queues, recon
 
 **GrantFox**, AI Engineer (Payments and Backend). USDC payout rail, server-signed job queue with retries and reconciliation, and the AI review that cut payout review from 2 weeks to 2 days.
 
-**Oppia Labs**, Co-founder. Building [Neko](https://nekoprotocol.xyz), a non-custodial investing app on Stellar, and Neko on Base.
+**Oppia Labs**, Co-founder. Building [Neko](https://nekoprotocol.xyz), a non-custodial investing app on Stellar.
 
 **Community**, organizer of Pura Vida Onchain (240+ registered) and instructor in the Dev3pack Solana and Rust bootcamp.
 
